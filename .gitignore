@@ -1,0 +1,5 @@
+.sass-cache
+del
+*DS_Store
+*Thumbs.db
+*.db
