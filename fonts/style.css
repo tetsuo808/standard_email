@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'din';
+  src: url('din.woff2') format('woff2'),
+       url('din.woff') format('woff'),
+       url('din.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'dinbold';
+  src: url('dinbold.woff2') format('woff2'),
+       url('dinbold.woff') format('woff'),
+       url('dinbold.ttf') format('truetype');
+}
